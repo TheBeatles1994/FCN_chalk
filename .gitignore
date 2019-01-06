@@ -1,0 +1,12 @@
+*.caffemodel
+*.solverstate
+*.pyc
+data/__labelImage/
+data/_labelImage/
+data/labelImage/
+data/_srcImage/
+data/srcImage/
+demo/demo_img/
+demo/result_visual/
+
+
