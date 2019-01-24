@@ -5,7 +5,7 @@ import vis
 import os  
 import time
 # 模型版本
-model_number = 100000
+model_number = 88000
 # 保存图片的文件夹
 save_img_dir = './demo/result_visual/'
 # 原图文件夹
