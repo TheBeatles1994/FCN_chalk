@@ -8,5 +8,8 @@ data/_srcImage/
 data/srcImage/
 demo/demo_img/
 demo/result_visual/
+data/labelImage_square/
+data/srcImage_square/
+
 
 
